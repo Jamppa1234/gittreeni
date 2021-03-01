@@ -1,1 +1,2 @@
 21137182
+git stashin käyttäminen harjoitus luotu muka toka_tiedosto.txt uusi teksi 
